@@ -79,6 +79,7 @@ Tic Tac Toe Bolt introduces a revolutionary twist to the classic game:
 - **Disappearing Moves**: When you make your fourth move, your first move disappears from the board
 - **Dynamic Strategy**: As the board constantly changes, players must continuously adapt their strategy
 - **Classic Winning Condition**: Still get three in a row to win, but with your currently active pieces
+- **No blinking piece**: To make the game harder there is no blinking piece from the classic Tic Tac Toe Bolt
 
 <div align="center">
 
@@ -224,7 +225,7 @@ Tic Tac Toe Bolt uses a consistent design system throughout the application:
 #### Layout
 
 - **Spacing**: Consistent 8px grid system
-- **Borders**: Rounded corners (12-16px radius)
+- **Borders**: Rounded corners (14-19px radius)
 - **Elevation**: Subtle shadows for depth
 
 ## Animations
